@@ -1,3 +1,6 @@
+#more {
+  display: none;
+}
 
 .fa {
   padding: 20px;
@@ -16,12 +19,18 @@
 
 /* Facebook */
 .fa-facebook {
-  background: #3B5998;
+  background: #3b5998;
   color: white;
 }
 
 /* Twitter */
 .fa-twitter {
-  background: #55ACEE;
+  background: #55acee;
+  color: white;
+}
+
+/* Instagram */
+.fa-Instagram {
+  background: #55acee;
   color: white;
 }
